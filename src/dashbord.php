@@ -10,5 +10,6 @@ if ($_SESSION['isLogin'] !== "Login") {
 
 <h1> Halaman Dashboard </h1>
 <p>halaman fitur</p>
+<h1>halo</h1>
 <a href="logout.php">Logout</a>
 
